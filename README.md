@@ -4,6 +4,8 @@
 
 A Todo list app with location reminders that remind the user to do something when he reaches a specific location. The app will require the user to create an account and login to set and access reminders.
 
+<img src="https://github.com/Malfaa/KotlinNanoDegree_LocationReminder/blob/main/location_reminder.gif" width=20% height=20%>
+
 ## Getting Started
 
 1. Clone the project to your local machine.
